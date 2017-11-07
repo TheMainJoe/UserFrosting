@@ -104,3 +104,7 @@ Srinivas's a web applications architect, with a passion for open source technolo
 ## Contributing
 
 Please see our [contributing guidelines](.github/CONTRIBUTING.md) as well as our [style guidelines](STYLE-GUIDE.md).
+
+## New feature
+
+2FA requested by Alex to have a look.
